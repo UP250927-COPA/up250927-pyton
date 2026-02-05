@@ -129,6 +129,8 @@ python main.py
 (Cambia main.py por el nombre real de tu archivo principal si es diferente)
 
 El programa se abrirá en la terminal y podrás empezar a usarlo.
+<img width="728" height="546" alt="image" src="https://github.com/user-attachments/assets/d13c528f-8a6b-4e1a-b3b9-36e9c344a89c" />
+
 
 
 Conclusión
